@@ -1,4 +1,3 @@
-ASEAN_95_database (1)
 CaseID,Event_Name,Country,ISO,Disaster_Type,Onset_Date,Stage1_Date,Stage2_Date,Stage3_Date,PostAADMER,Death,Affected,Damage,Severity_Composite,Severity_Z,ASEAN_Funding_Binary,ASEAN_Funding_USD,EMDAT_DisNo,Consent_Time_Days,Response_Time_Days
 ASEAN-DR-2004-001,Indian Ocean Tsunami,Indonesia,IDN,Earthquake/Tsunami,2004-12-26,2004-12-27,,2004-12-28,0,167000.0,500000.0,4450000000.0,6.856682162154840,2.3431407627730900,0,,,1,1.0
 ASEAN-DR-2004-002,Indian Ocean Tsunami,Thailand,THA,Earthquake/Tsunami,2004-12-26,2004-12-27,,2004-12-28,0,5400.0,60000.0,1000000000.0,5.836848336735540,1.0418010536287300,0,,,1,1.0
